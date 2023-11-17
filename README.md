@@ -8,11 +8,11 @@ Candidato: José Daniel Giraldo Gómez
 - Python 3.11.6 (o cualquier version 3.11)
 - Instalar dependencias disponibles en `requiriments.txt` (ver instrucciones)
 
-## Configuracion de Python y virtual environment
+## Configuración de Python y virtual environment
 
 Nota: este paso es opcional si ya se tiene python y/o si 
 usted no desea aislar las dependencias, de ser asi salte
-al paso de instalacion de dependencias.
+al paso de instalación de dependencias.
 
 - En caso de tener instalado pyenv instalar python 
 
@@ -58,11 +58,11 @@ de preferencia. (Yo use visual estudio code con las extensiones de Jupyter)
 ├── prueba.ipynb
 └── requirements.txt
 
-1 directory, 4 files
+1 directory, 6 files
 ```
 
 - README.md: Presente file para explicar como ejecutar el proyecto
 - acelero.txt: Data cruda usada como input para el jupyter notebook
-- prueba.ipynb: Archivo jupyter con solucion propuesta
+- prueba.ipynb: Archivo jupyter con solución propuesta
 - requirements.txt: archivo de dependencias necesarias para ejecutar
   proyecto
