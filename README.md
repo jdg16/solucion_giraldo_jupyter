@@ -53,6 +53,8 @@ de preferencia. (Yo use visual estudio code con las extensiones de Jupyter)
 
 ```txt
 .
+├── 20211119_monitoreo.tif
+├── 20230721_monitoreo.tif
 ├── README.md
 ├── acelero.txt
 ├── prueba.ipynb
