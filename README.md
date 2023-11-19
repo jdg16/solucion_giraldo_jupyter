@@ -68,3 +68,7 @@ de preferencia. (Yo use visual estudio code con las extensiones de Jupyter)
 - prueba.ipynb: Archivo jupyter con solución propuesta
 - requirements.txt: archivo de dependencias necesarias para ejecutar
   proyecto
+
+Nota: como se observa en el árbol de archivos los archivos de entrada
+deben estar posicionados (almacenados) en el mismo nivel del jupyter
+script.
