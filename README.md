@@ -7,6 +7,8 @@ Candidato: José Daniel Giraldo Gómez
 - Se recomienda tener un manejador de versiones de python como pyenv
 - Python 3.11.6 (o cualquier version 3.11)
 - Instalar dependencias disponibles en `requiriments.txt` (ver instrucciones)
+- Despues de descargar el proyecto colocar los archivos de data en el mismo 
+  directorio del proyecto.
 
 ## Configuración de Python y virtual environment
 
