@@ -2,6 +2,15 @@
 
 Candidato: José Daniel Giraldo Gómez
 
+## Descargar proyecto
+
+Puedes pedirme que te envie por correo esta solucion o puedes decargar
+por github este repositorio con el siguiente comando:
+
+```bash
+git clone git@github.com:jdg16/solucion_giraldo_jupyter.git
+```
+
 # Requisitos
 
 - Se recomienda tener un manejador de versiones de python como pyenv
