@@ -161,3 +161,7 @@ cython_debug/
 .python-version
 
 .DS_Store
+
+#ignore raw data
+*.tif
+acelero.txt
